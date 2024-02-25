@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a @Mayara-dos-Anjos
 - 👩🏽‍🎓 Estudante de Análise e Desenvolvimento de sistemas com foco em me tornar Full Satck
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
   
 
 <!---
