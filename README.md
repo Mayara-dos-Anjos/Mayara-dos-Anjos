@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou a @Mayara-dos-Anjos
-- 👩🏽‍🎓 Estudante de Análise e Desenvolvimento de sistemas com foco em me tornar Full Satck
+- 👩🏽‍🎓 Estudante de Análise e Desenvolvimento de sistemas com foco em desenvolvimento Front-End
 
 ##
   <div style="display: inline_block"><br>
